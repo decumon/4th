@@ -31,6 +31,10 @@ body{
     align-items: center;
 }
 
+.news a{
+    color:white;
+}
+
 menu>nav>ul>li{
     list-style: none;
     color: white;
